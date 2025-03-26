@@ -1,0 +1,805 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\term 4 client server\\MVCSampleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\models\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:models\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\mvcsampleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:mvcsampleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\clients\\availableservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\clients\\availableservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\services\\registeredclients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\services\\registeredclients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\services\\unregisteredclients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\services\\unregisteredclients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\clients\\registeredservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\clients\\registeredservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tejinder_randhawa\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\shared\\editortemplates\\fulladdress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\shared\\editortemplates\\fulladdress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\shared\\displaytemplates\\fulladdress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\shared\\displaytemplates\\fulladdress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\shared\\editortemplates\\fullname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\shared\\editortemplates\\fullname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\shared\\editortemplates\\fulladdresscreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\shared\\editortemplates\\fulladdresscreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\shared\\displaytemplates\\fullname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\shared\\displaytemplates\\fullname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\models\\fulladdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:models\\fulladdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\mvcsampleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:mvcsampleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|c:\\projects\\term 4 client server\\mvcsampleapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F76E0E-A133-4EC7-9FAD-6B266FB274B3}|MVCSampleApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tejinder_randhawa\\source\\repos\\TestProject1\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:48:49.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:45:47.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T04:01:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:08:27.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "Views\\Users\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:54:42.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:20:51.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:34:13.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\AppContext.cs",
+              "RelativeDocumentMoniker": "AppContext.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\AppContext.cs",
+              "RelativeToolTip": "AppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:27:37.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:16:58.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:25:13.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Register.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "Views\\Users\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:52:59.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:15:42.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:53:05.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:53:18.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:53:19.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:53:37.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:54:00.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:06:10.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T06:11:24.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FullName.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\FullName.cs",
+              "RelativeDocumentMoniker": "Models\\FullName.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\FullName.cs",
+              "RelativeToolTip": "Models\\FullName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:47:40.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T03:53:01.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Clients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Clients\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Clients\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T23:36:08.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AvailableServices.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Clients\\AvailableServices.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\AvailableServices.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Clients\\AvailableServices.cshtml",
+              "RelativeToolTip": "Views\\Clients\\AvailableServices.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwBsAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:11:30.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAIBJwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T23:21:36.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Models\\Service.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\Service.cs",
+              "RelativeToolTip": "Models\\Service.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:13:04.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T00:58:12.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MVCSampleApp",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\MVCSampleApp.csproj",
+              "RelativeDocumentMoniker": "MVCSampleApp.csproj",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\MVCSampleApp.csproj",
+              "RelativeToolTip": "MVCSampleApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T03:49:22.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Clients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Clients\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clients\\Create.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T21:02:57.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Services\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Services\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Services\\Create.cshtml",
+              "RelativeToolTip": "Views\\Services\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T23:28:32.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T23:22:24.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UnRegisteredClients.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Services\\UnRegisteredClients.cshtml",
+              "RelativeDocumentMoniker": "Views\\Services\\UnRegisteredClients.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Services\\UnRegisteredClients.cshtml",
+              "RelativeToolTip": "Views\\Services\\UnRegisteredClients.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T21:57:09.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisteredClients.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Services\\RegisteredClients.cshtml",
+              "RelativeDocumentMoniker": "Views\\Services\\RegisteredClients.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Services\\RegisteredClients.cshtml",
+              "RelativeToolTip": "Views\\Services\\RegisteredClients.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T23:15:19.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Services\\Index.cshtml",
+              "RelativeToolTip": "Views\\Services\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T22:00:19.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisteredServices.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Clients\\RegisteredServices.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\RegisteredServices.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Clients\\RegisteredServices.cshtml",
+              "RelativeToolTip": "Views\\Clients\\RegisteredServices.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T22:09:00.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Clients\\Index.cshtml",
+              "RelativeToolTip": "Views\\Clients\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAIBJwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T06:37:27.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FullAddress.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\EditorTemplates\\FullAddress.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\EditorTemplates\\FullAddress.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\EditorTemplates\\FullAddress.cshtml",
+              "RelativeToolTip": "Views\\Shared\\EditorTemplates\\FullAddress.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T05:59:53.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\tejinder_randhawa\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\tejinder_randhawa\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\tejinder_randhawa\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\Users\\tejinder_randhawa\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:29:07.176Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FullAddress.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\DisplayTemplates\\FullAddress.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\DisplayTemplates\\FullAddress.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\DisplayTemplates\\FullAddress.cshtml",
+              "RelativeToolTip": "Views\\Shared\\DisplayTemplates\\FullAddress.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T06:07:28.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FullName.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\EditorTemplates\\FullName.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\EditorTemplates\\FullName.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\EditorTemplates\\FullName.cshtml",
+              "RelativeToolTip": "Views\\Shared\\EditorTemplates\\FullName.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T01:02:59.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FullAddressCreate.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\EditorTemplates\\FullAddressCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\EditorTemplates\\FullAddressCreate.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\EditorTemplates\\FullAddressCreate.cshtml",
+              "RelativeToolTip": "Views\\Shared\\EditorTemplates\\FullAddressCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T20:29:48.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FullName.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\DisplayTemplates\\FullName.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\DisplayTemplates\\FullName.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\DisplayTemplates\\FullName.cshtml",
+              "RelativeToolTip": "Views\\Shared\\DisplayTemplates\\FullName.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T06:05:05.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FullAddress.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\FullAddress.cs",
+              "RelativeDocumentMoniker": "Models\\FullAddress.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\FullAddress.cs",
+              "RelativeToolTip": "Models\\FullAddress.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:50:27.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\tejinder_randhawa\\source\\repos\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\tejinder_randhawa\\source\\repos\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\tejinder_randhawa\\source\\repos\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\tejinder_randhawa\\source\\repos\\TestProject1\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:35:02.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:59:25.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\View.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\View.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\View.cshtml",
+              "RelativeToolTip": "Views\\Shared\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T00:26:02.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T01:04:22.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T04:11:06.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MVCSampleApp.csproj",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\MVCSampleApp.csproj",
+              "RelativeDocumentMoniker": "MVCSampleApp.csproj",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\MVCSampleApp.csproj",
+              "RelativeToolTip": "MVCSampleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T03:27:20.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\term 4 client server\\MVCSampleApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T03:15:34.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
